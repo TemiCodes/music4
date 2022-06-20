@@ -1,0 +1,36 @@
+.heading{
+    font-size: 22px;
+    margin: 0px;
+    width: 100%
+}
+.word{
+    font-size: 15px;
+    color: aqua;
+}
+
+
+
+#speed{
+    font-size: x-large;
+    margin: 15px;
+}
+#vol{
+    font-size: x-large;
+    margin: 15px;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border: 9.9px dashed red;
+    position: 
+    
+}
+.play{
+    width: 125px;
+    font-size: xx-large;
+    float: left;
+}
+#songed{
+    float: right;
+}
